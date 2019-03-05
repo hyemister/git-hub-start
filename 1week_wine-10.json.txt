@@ -1,0 +1,122 @@
+﻿[
+ {
+  "number": 0,
+  "country": "US",
+  "designation": "Martha's Vineyard",
+  "points": 96,
+  "price": 235,
+  "province": "California",
+  "region_1": "Napa Valley",
+  "region_2": "Napa",
+  "variety": "Cabernet Sauvignon",
+  "winery": "Heitz"
+ },
+ {
+  "number": 1,
+  "country": "Spain",
+  "designation": "Carodorum Selección Especial Reserva",
+  "points": 96,
+  "price": 110,
+  "province": "Northern Spain",
+  "region_1": "Toro",
+  "region_2": "Null",
+  "variety": "Tinta de Toro",
+  "winery": "Bodega Carmen Rodríguez"
+ },
+ {
+  "number": 2,
+  "country": "US",
+  "designation": "Special Selected Late Harvest",
+  "points": 96,
+  "price": 90,
+  "province": "California",
+  "region_1": "Knights Valley",
+  "region_2": "Sonoma",
+  "variety": "Sauvignon Blanc",
+  "winery": "Macauley"
+ },
+ {
+  "number": 3,
+  "country": "US",
+  "designation": "Reserve",
+  "points": 96,
+  "price": 65,
+  "province": "Oregon",
+  "region_1": "Willamette Valley",
+  "region_2": "Willamette Valley",
+  "variety": "Pinot Noir",
+  "winery": "Ponzi"
+ },
+ {
+  "number": 4,
+  "country": "France",
+  "designation": "La Brûlade",
+  "points": 95,
+  "price": 66,
+  "province": "Provence",
+  "region_1": "Bandol",
+  "region_2": "Null",
+  "variety": "Provence red blend",
+  "winery": "Domaine de la Bégude"
+ },
+ {
+  "number": 5,
+  "country": "Spain",
+  "designation": "Numanthia",
+  "points": 95,
+  "price": 73,
+  "province": "Northern Spain",
+  "region_1": "Toro",
+  "region_2": "Null",
+  "variety": "Tinta de Toro",
+  "winery": "Numanthia"
+ },
+ {
+  "number": 6,
+  "country": "Spain",
+  "designation": "San Román",
+  "points": 95,
+  "price": 65,
+  "province": "Northern Spain",
+  "region_1": "Toro",
+  "region_2": "Null",
+  "variety": "Tinta de Toro",
+  "winery": "Maurodos"
+ },
+ {
+  "number": 7,
+  "country": "Spain",
+  "designation": "Carodorum Único Crianza",
+  "points": 95,
+  "price": 110,
+  "province": "Northern Spain",
+  "region_1": "Toro",
+  "region_2": "Null",
+  "variety": "Tinta de Toro",
+  "winery": "Bodega Carmen Rodríguez"
+ },
+ {
+  "number": 8,
+  "country": "US",
+  "designation": "Silice",
+  "points": 95,
+  "price": 65,
+  "province": "Oregon",
+  "region_1": "Chehalem Mountains",
+  "region_2": "Willamette Valley",
+  "variety": "Pinot Noir",
+  "winery": "Bergström"
+ },
+ {
+  "number": 9,
+  "country": "US",
+  "designation": "Gap's Crown Vineyard",
+  "points": 95,
+  "price": 60,
+  "province": "California",
+  "region_1": "Sonoma Coast",
+  "region_2": "Sonoma",
+  "variety": "Pinot Noir",
+  "winery": "Blue Farm"
+ }
+]
